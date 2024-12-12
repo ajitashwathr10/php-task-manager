@@ -56,7 +56,7 @@
             <a class = "btn-primary" href = "<?php SITEURL; ?>add-task.php">Add Task</a>
             <table class = "tbl-full">
             <tr>
-                <th>S. No.</th>
+                <th>Serial No.</th>
                 <th>Task Name</th>
                 <th>Priority</th>
                 <th>Deadline</th>
